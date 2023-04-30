@@ -2,7 +2,7 @@
 
 ## a portfolio for developers
 
-![screenshot](https://github.com/rusbenmadrigal/cv/blob/main/src/img/bg.png)
+![screenshot](https://raw.githubusercontent.com/rusbenmadrigal/cv/main/src/img/bg.png)
 
 
 ## features
