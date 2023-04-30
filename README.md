@@ -4,7 +4,6 @@
 
 ![screenshot](https://github.com/rusbenmadrigal/cv/blob/main/src/img/bg.png)
 
-[View Live Template](https://reactportfoliotemplate.paytonpierce.dev/)
 
 ## features
 
