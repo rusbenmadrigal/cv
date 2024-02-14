@@ -50,6 +50,12 @@ export const info = {
   ],
   socials: [
     {
+      link: "https://www.youtube.com/@rusbenmadrigal/",
+      icon: "fa fa-youtube-play",
+      label: "instagram",
+    },
+
+    {
       link: "https://www.instagram.com/rusbenmadrigal/",
       icon: "fa fa-instagram",
       label: "instagram",
